@@ -1,8 +1,8 @@
 class Punto < Formula
   desc "Composable Dotfile Manager"
   homepage "https://rahulsom.github.io/punto/"
-  url "https://bintray.com/api/ui/download/rahulsom/punto/punto/0.1.1-rc.1/punto-0.1.1-rc.1.zip"
-  sha256 "f071b473fee64f961a009e59ead12d1634e4138afb8ce2cb78bfb84a5786df1b"
+  url "https://bintray.com/api/ui/download/rahulsom/punto/punto/0.1.2/punto-0.1.2.zip"
+  sha256 "d5a34b5c462a8bc3158afa19743e780ba3d1d323deb97f4ef9d70aaf47adeab6"
 
   def install
     bin.install "macos/punto"
